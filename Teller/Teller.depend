@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1676777102 source:c:\users\danielle\desktop\code folders\codeblock\c codes\teller\teller\deletepayment.c
+	"teller.h"
+
+1676784265 c:\users\danielle\desktop\code folders\codeblock\c codes\teller\teller\teller.h
+	<stdio.h>
+	<stdlib.h>
+
+1676783893 source:c:\users\danielle\desktop\code folders\codeblock\c codes\teller\teller\display.c
+	"teller.h"
+
+1676792764 source:c:\users\danielle\desktop\code folders\codeblock\c codes\teller\teller\main.c
+	"teller.h"
+
+1676783727 source:c:\users\danielle\desktop\code folders\codeblock\c codes\teller\teller\addpayment.c
+	"teller.h"
+
